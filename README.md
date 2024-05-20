@@ -21,9 +21,8 @@ Este repositório contém um código em Python que implementa uma calculadora si
 - Biblioteca Tkinter (geralmente incluída na instalação padrão do Python)
 
 ## Como Usar
-
-1. **Clone o repositório:**
-
-   ```sh
-   git clone https://github.com/seu-usuario/calculadora-tkinter.git
-   cd calculadora-tkinter
+- baixe o arquivo **Calculadora.py**
+- instale python em sua maquina
+- execute o arquivo 
+## lincença 
+- MIT License
