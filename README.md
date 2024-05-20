@@ -1,2 +1,29 @@
 # Calculadora.Py
-Sistema de Calculadora com Interface feito em Python
+Este repositório contém um código em Python que implementa uma calculadora simples usando a biblioteca Tkinter. A calculadora permite realizar operações básicas de adição, subtração, multiplicação e divisão.
+
+## Funcionalidades
+
+- **Adição** (`+`)
+- **Subtração** (`-`)
+- **Multiplicação** (`*`)
+- **Divisão** (`/`)
+- **Limpar** (`C`)
+- **Calcular** (`=`)
+
+## Captura de Tela
+
+![xxxntitled](https://github.com/Gabrielb04/Calculadora.Py/assets/166271886/4827be60-c725-4666-88bd-1683b6dfe7a9)
+
+
+## Pré-requisitos
+
+- Python 3.x instalado
+- Biblioteca Tkinter (geralmente incluída na instalação padrão do Python)
+
+## Como Usar
+
+1. **Clone o repositório:**
+
+   ```sh
+   git clone https://github.com/seu-usuario/calculadora-tkinter.git
+   cd calculadora-tkinter
