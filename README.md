@@ -21,7 +21,7 @@ Este repositório contém um código em Python que implementa uma calculadora si
 - Biblioteca Tkinter (geralmente incluída na instalação padrão do Python)
 
 ## Como Usar
-- baixe o arquivo Calculadora.py: https://github.com/Gabrielb04/Calculadora.Py/blob/main/Calculadora.py
+- baixe o arquivo:  Calculadora.py https://github.com/Gabrielb04/Calculadora.Py/blob/main/Calculadora.py
 - instale python em sua maquina
 - execute o arquivo 
 ## lincença 
